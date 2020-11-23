@@ -1,0 +1,7 @@
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\CompundInterestsAssignmnet\bin\Debug\CompundInterestsAssignmnet.exe.config
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\CompundInterestsAssignmnet\bin\Debug\CompundInterestsAssignmnet.exe
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\CompundInterestsAssignmnet\bin\Debug\CompundInterestsAssignmnet.pdb
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\CompundInterestsAssignmnet\obj\Debug\CompundInterestsAssignmnet.csprojAssemblyReference.cache
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\CompundInterestsAssignmnet\obj\Debug\CompundInterestsAssignmnet.csproj.CoreCompileInputs.cache
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\CompundInterestsAssignmnet\obj\Debug\CompundInterestsAssignmnet.exe
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\CompundInterestsAssignmnet\obj\Debug\CompundInterestsAssignmnet.pdb
